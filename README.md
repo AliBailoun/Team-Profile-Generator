@@ -5,7 +5,7 @@ This is a professional team profile generator that you can use to organize the t
 1. Open a new terminal
 2. Type in app.js
 3. Answer the questions that follow
-4. Select the outut folder and open the newly-generated html page.
+4. Select the output folder and open the newly-generated html page.
 
 ### Link to the repo:
 https://github.com/AliBailoun/Team-Profile-Generator
